@@ -2,15 +2,8 @@
 
 
 
-
-
 ## plan
-
-
-
-
-
-
+![image](https://github.com/f-shixiong/jvm-2019/blob/master/ico/plan.png?raw=true)
 
 > ### 编译执行
 ```
