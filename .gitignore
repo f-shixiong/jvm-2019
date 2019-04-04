@@ -1,0 +1,5 @@
+core/a.out
+core/lex.yy.c
+core/y.tab.c
+core/y.tab.h
+core/y.tab.h.gch
